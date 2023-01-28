@@ -1,0 +1,14 @@
+{
+  "name": "investec-api",
+  "version": "1.0.0",
+  "description": "Example blueprint to call the investec API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tjaard123",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.2.3"
+  }
+}
